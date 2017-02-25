@@ -2,7 +2,9 @@ import sys
 from tkinter import *
 from tkinter import filedialog
 
+##########################
 
+#psuuuke
 def mHello():
     mText=ment.get()
     mlabel1 = Label(myApp,text=mText).pack()
